@@ -1,4 +1,4 @@
-# Parser for Trilithic EAS (Emergency Slert System) Logs
+# Parser for Trilithic EAS (Emergency Alert System) Logs
 
 Parses through log files produced by Trilithic EAS systems and outputs them in an easily readable format for parsing through logs on a monthly basis.
 
@@ -7,9 +7,9 @@ There are two binaries, EASLog.exe is a console app used at the terminal using:
 ```
 EASLog.exe <filename>
 ```
-Without replacing <filename> witht he file name, no braces.  This will output a file <filename>-Processed.txt with a simple table fo dates and sources and alert types seperated by weeks.
+Without replacing <filename> with the file name, no braces.  This will output a file <filename>-Processed.txt with a simple table of dates and sources and alert types separated by weeks.
 
-EASLogWindows.exe is a Windows app which will open a window, allow the user to opena a file, which will then be parsed and the result displayed in a window.  It will also produce a <filename>-Processed.txt file in the background, in the same folder as the original file.
+EASLogWindows.exe is a Windows app that will open a window, and allow the user to open a file, which will then be parsed and the result displayed in a window.  It will also produce a <filename>-Processed.txt file in the background, in the same folder as the original file.
 
 ---
 
@@ -17,10 +17,10 @@ A sample log file and output file is included, it's all public information, but 
 
 ---
 
-It is strongly recomended to verify the log accuracy after running the tool.
+It is strongly recommended to verify the log accuracy after running the tool.
 
 ---
 
 Known issues:
 
-It's probably fixable very easily, but if you run a log through the reader a second time, it appends the results tot he previous results file, instead of creating a new file.
+It's probably fixable very easily, but if you run a log through the reader a second time, it appends the results to the previous results file, instead of creating a new file.
