@@ -24,3 +24,4 @@ It is strongly recommended to verify the log accuracy after running the tool.
 Known issues:
 
 It's probably fixable very easily, but if you run a log through the reader a second time, it appends the results to the previous results file, instead of creating a new file.
+
