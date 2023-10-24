@@ -12,4 +12,15 @@ Without replacing <filename> witht he file name, no braces.  This will output a 
 EASLogWindows.exe is a Windows app which will open a window, allow the user to opena a file, which will then be parsed and the result displayed in a window.  It will also produce a <filename>-Processed.txt file in the background, in the same folder as the original file.
 
 ---
+
+A sample log file and output file is included, it's all public information, but for the sake of my sanity, I've scrubbed it with fake radio stations and data, but it is based on a real log file.
+
+---
+
 It is strongly recomended to verify the log accuracy after running the tool.
+
+---
+
+Known issues:
+
+It's probably fixable very easily, but if you run a log through the reader a second time, it appends the results tot he previous results file, instead of creating a new file.

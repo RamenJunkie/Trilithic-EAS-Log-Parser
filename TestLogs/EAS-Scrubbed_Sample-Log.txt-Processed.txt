@@ -1,0 +1,64 @@
+----------------------------------------
+Monthly Tests
+----------------------------------------
+
+10/04/1947	RAD3 (Radio-3 101100 kHz)		Required Monthly Test (RMT)		
+10/04/1947	RAD2 (Radio-2 109300 kHz)		Required Monthly Test (RMT)		
+10/04/1947	RAD1 (Radio-1 57600 kHz)		Required Monthly Test (RMT)		
+10/08/1947	IPAWS					Required Monthly Test (RMT)		
+
+----------------------------------------
+Recieve Dates
+----------------------------------------
+
+Week 1: 
+10/03/1947	IPAWS					Required Weekly Test (RWT)		
+10/03/1947	IPAWS					Required Weekly Test (RWT)		
+
+Week 2: 
+10/05/1947	IPAWS					Required Weekly Test (RWT)		
+10/06/1947	IPAWS					Required Weekly Test (RWT)		
+10/08/1947	IPAWS					Required Weekly Test (RWT)		
+10/09/1947	RAD3 (Radio-3 101100 kHz)		Required Weekly Test (RWT)		
+10/10/1947	IPAWS					Required Weekly Test (RWT)		
+10/10/1947	IPAWS					Required Weekly Test (RWT)		
+10/10/1947	RAD2 (Radio-2 109300 kHz)		Required Weekly Test (RWT)		
+
+Week 3: 
+10/13/1947	IPAWS					Required Weekly Test (RWT)		
+10/14/1947	RAD1 (Radio-1 57600 kHz)		Required Weekly Test (RWT)		
+10/14/1947	IPAWS					Required Weekly Test (RWT)		
+10/15/1947	RAD3 (Radio-3 101100 kHz)		Required Weekly Test (RWT)		
+10/15/1947	IPAWS					Required Weekly Test (RWT)		
+10/17/1947	RAD3 (Radio-3 101100 kHz)		Required Weekly Test (RWT)		
+10/17/1947	IPAWS					Required Weekly Test (RWT)		
+10/17/1947	IPAWS					Required Weekly Test (RWT)		
+
+Week 4: 
+10/19/1947	RAD2 (Radio-2 109300 kHz)		Required Weekly Test (RWT)		
+10/19/1947	IPAWS					Required Weekly Test (RWT)		
+10/20/1947	IPAWS					Required Weekly Test (RWT)		
+10/21/1947	RAD1 (Radio-1 57600 kHz)		Required Weekly Test (RWT)		
+10/21/1947	RAD3 (Radio-3 101100 kHz)		Required Weekly Test (RWT)		
+10/22/1947	RAD3 (Radio-3 101100 kHz)		Required Weekly Test (RWT)		
+10/24/1947	IPAWS					Required Weekly Test (RWT)		
+10/24/1947	IPAWS					Required Weekly Test (RWT)		
+
+Week 5: 
+10/26/1947	IPAWS					Required Weekly Test (RWT)		
+10/26/1947	RAD2 (Radio-2 109300 kHz)		Required Weekly Test (RWT)		
+10/27/1947	IPAWS					Required Weekly Test (RWT)		
+10/27/1947	RAD3 (Radio-3 101100 kHz)		Required Weekly Test (RWT)		
+10/27/1947	IPAWS					Required Weekly Test (RWT)		
+10/31/1947	IPAWS					Required Weekly Test (RWT)		
+10/31/1947	IPAWS					Required Weekly Test (RWT)		
+
+----------------------------------------
+Transmit Dates
+----------------------------------------
+
+10/04/1947	Required Monthly Test (RMT)		Successfully Delivered
+10/06/1947	Required Weekly Test (RWT)		Successfully Delivered
+10/11/1947	Required Weekly Test (RWT)		Successfully Delivered
+10/20/1947	Required Weekly Test (RWT)		Successfully Delivered
+10/25/1947	Required Weekly Test (RWT)		Successfully Delivered
