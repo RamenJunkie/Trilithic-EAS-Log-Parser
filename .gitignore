@@ -1,0 +1,8 @@
+EASLog/bin/*
+EASLogWindows/bin/*
+EASLog/obj/*
+EASLogWindows/obj/*
+EAS.sln
+Binaries/*
+
+EASLog/obj/

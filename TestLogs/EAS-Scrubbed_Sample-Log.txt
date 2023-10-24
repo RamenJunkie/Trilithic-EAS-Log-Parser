@@ -1,0 +1,725 @@
+====================================================
+11/08/1947 02:54:10 PM: Alert Log for SOURCEID, EASyCAP IPTV 18.10.05
+41 log records from 10/01/1947 12:00:00 AM to 10/31/1947 11:59:59 PM
+
+>>>=================================================
+10/03/1947 (Monday) at 11:01:34 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: IPAWS
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-03T16:00:00-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/03/1947 (Monday) at 11:00:00 AM CDT
+EFFECTIVE UNTIL: 10/03/1947 (Monday) at 12:00:00 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/03/1947 (Monday) at 02:01:48 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: IPAWS
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-03T19:00:00-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/03/1947 (Monday) at 02:00:00 PM CDT
+EFFECTIVE UNTIL: 10/03/1947 (Monday) at 03:00:00 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+====================================================
+10/04/1947 (Tuesday) at 12:15:16 AM CDT : Receive and Transmit log
+  MESSAGE STATUS: Message Transmitted
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-04T05:15:00-00:00
+STATION ID: IPAWS
+EVENT: Required Monthly Test (RMT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/04/1947 (Tuesday) at 12:15:00 AM CDT
+EFFECTIVE UNTIL: 10/04/1947 (Tuesday) at 01:15:00 AM CDT
+TRANSMIT TIME INFORMATION:
+    Header Tones Transmitted: 12:16:34 AM
+    Attention Tone Transmitted: 12:16:40 AM
+    Voice Audio Transmitted: 12:16:49 AM
+    End of Message Tones Transmitted: 12:17:00 AM
+    Audio/Video Stopped: 12:17:06 AM
+SUCCESSFUL DELIVERIES:
+    12:15:21 AM: Delivered alert.
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: Civil Authorities have issued a Required Monthly Test for All of Illinois. Effective until October 04, 01:15 AM CDT. This is the required Monthly Test of the Emergency Alert System originated by the Illinois Emergency Management Agency IEMA. Rebroadcast within 1 hour.
+
+>>>=================================================
+10/04/1947 (Tuesday) at 12:15:55 AM CDT : Receive log
+  MESSAGE STATUS: Duplicate message discarded
+EAS MESSAGE from: RAD3 (Radio-3 101100 kHz)
+STATION ID: RAD3    
+EVENT: Required Monthly Test (RMT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/04/1947 (Tuesday) at 12:15:00 AM CDT
+EFFECTIVE UNTIL: 10/04/1947 (Tuesday) at 01:15:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 12:15:30 AM
+    Attention Tone Received: 12:15:31 AM
+    Voice Audio Recorded: 12:15:39 AM
+    End of Message Tones Received: 12:15:54 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+>>>=================================================
+10/04/1947 (Tuesday) at 12:15:57 AM CDT : Receive log
+  MESSAGE STATUS: Duplicate message discarded
+EAS MESSAGE from: RAD2 (Radio-2 109300 kHz)
+STATION ID: RAD2 FM 
+EVENT: Required Monthly Test (RMT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/04/1947 (Tuesday) at 12:15:00 AM CDT
+EFFECTIVE UNTIL: 10/04/1947 (Tuesday) at 01:15:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 12:15:31 AM
+    Attention Tone Received: 12:15:34 AM
+    Voice Audio Recorded: 12:15:42 AM
+    End of Message Tones Received: 12:15:55 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+>>>=================================================
+10/04/1947 (Tuesday) at 12:16:03 AM CDT : Receive log
+  MESSAGE STATUS: Duplicate message discarded
+EAS MESSAGE from: RAD1 (Radio-1 57600 kHz)
+STATION ID: AREASTID
+EVENT: Required Monthly Test (RMT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/04/1947 (Tuesday) at 12:15:00 AM CDT
+EFFECTIVE UNTIL: 10/04/1947 (Tuesday) at 01:15:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 12:15:37 AM
+    Attention Tone Received: 12:15:40 AM
+    Voice Audio Recorded: 12:15:49 AM
+    End of Message Tones Received: 12:16:02 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+>>>=================================================
+10/05/1947 (Wednesday) at 05:10:55 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-05T22:10:03-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/05/1947 (Wednesday) at 05:10:03 PM CDT
+EFFECTIVE UNTIL: 10/05/1947 (Wednesday) at 05:25:03 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/06/1947 (Thursday) at 04:03:54 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-06T09:02:49-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/06/1947 (Thursday) at 04:02:49 AM CDT
+EFFECTIVE UNTIL: 10/06/1947 (Thursday) at 04:17:49 AM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+<<<=================================================
+10/06/1947 (Thursday) at 01:15:14 PM CDT : Transmit log
+  MESSAGE STATUS: Message Transmitted
+USER MESSAGE activation initiated by: Random_Weekly_Test_Generator
+STATION ID: SOURCEID
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/06/1947 (Thursday) at 01:15:14 PM CDT
+EFFECTIVE UNTIL: 10/06/1947 (Thursday) at 01:30:14 PM CDT
+TRANSMIT TIME INFORMATION:
+    Header Tones Transmitted: 01:16:30 PM
+    End of Message Tones Transmitted: 01:16:38 PM
+    Audio/Video Stopped: 01:16:44 PM
+SUCCESSFUL DELIVERIES:
+    01:15:16 PM: Delivered alert.
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/08/1947 (Saturday) at 02:46:42 AM CDT : Receive log
+  MESSAGE STATUS: Required Monthly Test requirement has already been satisfied
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-08T07:45:26-00:00
+STATION ID: IPAWS
+EVENT: Required Monthly Test (RMT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/08/1947 (Saturday) at 02:45:26 AM CDT
+EFFECTIVE UNTIL: 10/08/1947 (Saturday) at 03:45:26 AM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: Civil Authorities have issued a Required Monthly Test for All of Alaska. Effective until October 08, 03:45 AM CDT. This is a test of the Emergency Alert System, and the Alaska Amber Alert System... In the event of an emergency, or child abduction, this system would provide important information... This test is now concluded.
+
+>>>=================================================
+10/08/1947 (Saturday) at 12:11:04 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-08T17:09:54-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/08/1947 (Saturday) at 12:09:54 PM CDT
+EFFECTIVE UNTIL: 10/08/1947 (Saturday) at 12:24:54 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/09/1947 (Sunday) at 09:06:52 AM CDT : Receive log
+  MESSAGE STATUS: Duplicate message discarded
+EAS MESSAGE from: RAD3 (Radio-3 101100 kHz)
+STATION ID: RAD3    
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 06/22/1947 (Wednesday) at 08:08:00 AM CDT
+EFFECTIVE UNTIL: 06/22/1947 (Wednesday) at 09:08:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 09:06:46 AM
+    Voice Audio Recorded: 09:06:48 AM
+    End of Message Tones Received: 09:06:50 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+>>>=================================================
+10/10/1947 (Monday) at 11:00:43 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: IPAWS
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-10T16:00:00-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/10/1947 (Monday) at 11:00:00 AM CDT
+EFFECTIVE UNTIL: 10/10/1947 (Monday) at 12:00:00 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/10/1947 (Monday) at 02:01:02 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: IPAWS
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-10T19:00:00-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/10/1947 (Monday) at 02:00:00 PM CDT
+EFFECTIVE UNTIL: 10/10/1947 (Monday) at 03:00:00 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/10/1947 (Monday) at 11:18:14 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+EAS MESSAGE from: RAD2 (Radio-2 109300 kHz)
+STATION ID: RAD2 FM 
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/10/1947 (Monday) at 11:18:00 PM CDT
+EFFECTIVE UNTIL: 10/11/1947 (Tuesday) at 12:18:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 11:18:07 PM
+    Voice Audio Recorded: 11:18:11 PM
+    End of Message Tones Received: 11:18:13 PM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+<<<=================================================
+10/11/1947 (Tuesday) at 09:04:14 AM CDT : Transmit log
+  MESSAGE STATUS: Message Transmitted
+USER MESSAGE activation initiated by: Random_Weekly_Test_Generator
+STATION ID: SOURCEID
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/11/1947 (Tuesday) at 09:04:14 AM CDT
+EFFECTIVE UNTIL: 10/11/1947 (Tuesday) at 09:19:14 AM CDT
+TRANSMIT TIME INFORMATION:
+    Header Tones Transmitted: 09:05:30 AM
+    End of Message Tones Transmitted: 09:05:38 AM
+    Audio/Video Stopped: 09:05:44 AM
+SUCCESSFUL DELIVERIES:
+    09:04:19 AM: Delivered alert.
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/13/1947 (Thursday) at 04:05:50 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-13T09:04:24-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/13/1947 (Thursday) at 04:04:24 AM CDT
+EFFECTIVE UNTIL: 10/13/1947 (Thursday) at 04:19:24 AM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/14/1947 (Friday) at 06:19:13 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+EAS MESSAGE from: RAD1 (Radio-1 57600 kHz)
+STATION ID: AREASTID
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/14/1947 (Friday) at 06:19:00 AM CDT
+EFFECTIVE UNTIL: 10/14/1947 (Friday) at 07:19:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 06:19:09 AM
+    Voice Audio Recorded: 06:19:09 AM
+    End of Message Tones Received: 06:19:12 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/14/1947 (Friday) at 11:22:19 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-15T04:21:10-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/14/1947 (Friday) at 11:21:10 PM CDT
+EFFECTIVE UNTIL: 10/14/1947 (Friday) at 11:36:10 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/15/1947 (Saturday) at 07:01:17 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+EAS MESSAGE from: RAD3 (Radio-3 101100 kHz)
+STATION ID: RAD3    
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/15/1947 (Saturday) at 07:01:00 AM CDT
+EFFECTIVE UNTIL: 10/15/1947 (Saturday) at 08:01:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 07:01:13 AM
+    Voice Audio Recorded: 07:01:13 AM
+    End of Message Tones Received: 07:01:16 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/15/1947 (Saturday) at 12:01:07 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-15T16:59:44-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/15/1947 (Saturday) at 11:59:44 AM CDT
+EFFECTIVE UNTIL: 10/15/1947 (Saturday) at 12:14:44 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/17/1947 (Monday) at 09:04:33 AM CDT : Receive log
+  MESSAGE STATUS: Duplicate message discarded
+EAS MESSAGE from: RAD3 (Radio-3 101100 kHz)
+STATION ID: RAD3    
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 06/22/1947 (Wednesday) at 08:08:00 AM CDT
+EFFECTIVE UNTIL: 06/22/1947 (Wednesday) at 09:08:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 09:04:27 AM
+    Voice Audio Recorded: 09:04:29 AM
+    End of Message Tones Received: 09:04:32 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+>>>=================================================
+10/17/1947 (Monday) at 11:00:38 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: IPAWS
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-17T16:00:00-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/17/1947 (Monday) at 11:00:00 AM CDT
+EFFECTIVE UNTIL: 10/17/1947 (Monday) at 12:00:00 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/17/1947 (Monday) at 02:01:00 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: IPAWS
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-17T19:00:00-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/17/1947 (Monday) at 02:00:00 PM CDT
+EFFECTIVE UNTIL: 10/17/1947 (Monday) at 03:00:00 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/19/1947 (Wednesday) at 10:38:15 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+EAS MESSAGE from: RAD2 (Radio-2 109300 kHz)
+STATION ID: RAD2 FM 
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/19/1947 (Wednesday) at 10:38:00 AM CDT
+EFFECTIVE UNTIL: 10/19/1947 (Wednesday) at 11:38:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 10:38:11 AM
+    Voice Audio Recorded: 10:38:11 AM
+    End of Message Tones Received: 10:38:13 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/19/1947 (Wednesday) at 05:03:55 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-19T22:03:07-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/19/1947 (Wednesday) at 05:03:07 PM CDT
+EFFECTIVE UNTIL: 10/19/1947 (Wednesday) at 05:18:07 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/20/1947 (Thursday) at 04:04:21 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-20T09:03:34-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/20/1947 (Thursday) at 04:03:34 AM CDT
+EFFECTIVE UNTIL: 10/20/1947 (Thursday) at 04:18:34 AM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+<<<=================================================
+10/20/1947 (Thursday) at 02:39:21 PM CDT : Transmit log
+  MESSAGE STATUS: Message Transmitted
+USER MESSAGE activation initiated by: Random_Weekly_Test_Generator
+STATION ID: SOURCEID
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/20/1947 (Thursday) at 02:39:21 PM CDT
+EFFECTIVE UNTIL: 10/20/1947 (Thursday) at 02:54:21 PM CDT
+TRANSMIT TIME INFORMATION:
+    Header Tones Transmitted: 02:40:37 PM
+    End of Message Tones Transmitted: 02:40:45 PM
+    Audio/Video Stopped: 02:40:51 PM
+SUCCESSFUL DELIVERIES:
+    02:39:23 PM: Delivered alert.
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/21/1947 (Friday) at 04:31:15 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+EAS MESSAGE from: RAD1 (Radio-1 57600 kHz)
+STATION ID: AREASTID
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/21/1947 (Friday) at 04:31:00 AM CDT
+EFFECTIVE UNTIL: 10/21/1947 (Friday) at 05:31:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 04:31:10 AM
+    Voice Audio Recorded: 04:31:10 AM
+    End of Message Tones Received: 04:31:14 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/21/1947 (Friday) at 07:06:50 AM CDT : Receive log
+  MESSAGE STATUS: Duplicate message discarded
+EAS MESSAGE from: RAD3 (Radio-3 101100 kHz)
+STATION ID: RAD3    
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 06/22/1947 (Wednesday) at 08:08:00 AM CDT
+EFFECTIVE UNTIL: 06/22/1947 (Wednesday) at 09:08:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 07:06:45 AM
+    Voice Audio Recorded: 07:06:46 AM
+    End of Message Tones Received: 07:06:49 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+>>>=================================================
+10/22/1947 (Saturday) at 02:25:19 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+EAS MESSAGE from: RAD3 (Radio-3 101100 kHz)
+STATION ID: RAD3    
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/22/1947 (Saturday) at 02:25:00 PM CDT
+EFFECTIVE UNTIL: 10/22/1947 (Saturday) at 03:25:00 PM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 02:25:11 PM
+    Voice Audio Recorded: 02:25:13 PM
+    End of Message Tones Received: 02:25:17 PM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/24/1947 (Monday) at 11:00:31 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: IPAWS
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-24T16:00:00-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/24/1947 (Monday) at 11:00:00 AM CDT
+EFFECTIVE UNTIL: 10/24/1947 (Monday) at 12:00:00 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/24/1947 (Monday) at 02:01:05 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: IPAWS
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-24T19:00:00-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/24/1947 (Monday) at 02:00:00 PM CDT
+EFFECTIVE UNTIL: 10/24/1947 (Monday) at 03:00:00 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+<<<=================================================
+10/25/1947 (Tuesday) at 10:17:10 AM CDT : Transmit log
+  MESSAGE STATUS: Message Transmitted
+USER MESSAGE activation initiated by: Random_Weekly_Test_Generator
+STATION ID: SOURCEID
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/25/1947 (Tuesday) at 10:17:10 AM CDT
+EFFECTIVE UNTIL: 10/25/1947 (Tuesday) at 10:32:10 AM CDT
+TRANSMIT TIME INFORMATION:
+    Header Tones Transmitted: 10:18:26 AM
+    End of Message Tones Transmitted: 10:18:34 AM
+    Audio/Video Stopped: 10:18:40 AM
+SUCCESSFUL DELIVERIES:
+    10:17:13 AM: Delivered alert.
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/26/1947 (Wednesday) at 05:01:02 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-26T22:00:06-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/26/1947 (Wednesday) at 05:00:06 PM CDT
+EFFECTIVE UNTIL: 10/26/1947 (Wednesday) at 05:15:06 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/26/1947 (Wednesday) at 05:46:15 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+EAS MESSAGE from: RAD2 (Radio-2 109300 kHz)
+STATION ID: RAD2 FM 
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/26/1947 (Wednesday) at 05:46:00 PM CDT
+EFFECTIVE UNTIL: 10/26/1947 (Wednesday) at 06:46:00 PM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 05:46:08 PM
+    Voice Audio Recorded: 05:46:11 PM
+    End of Message Tones Received: 05:46:13 PM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/27/1947 (Thursday) at 05:08:36 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-27T10:07:53-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/27/1947 (Thursday) at 05:07:53 AM CDT
+EFFECTIVE UNTIL: 10/27/1947 (Thursday) at 05:22:53 AM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/27/1947 (Thursday) at 10:39:17 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+EAS MESSAGE from: RAD3 (Radio-3 101100 kHz)
+STATION ID: RAD3    
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: EAS Participant (EAS)
+ORIGINATION TIME: 10/27/1947 (Thursday) at 10:39:00 AM CDT
+EFFECTIVE UNTIL: 10/27/1947 (Thursday) at 11:39:00 AM CDT
+RECEIVE TIME INFORMATION:
+    Header Tones Received: 10:39:12 AM
+    Voice Audio Recorded: 10:39:13 AM
+    End of Message Tones Received: 10:39:16 AM
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/27/1947 (Thursday) at 05:01:19 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: CAPSENDER
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-27T22:00:29-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/27/1947 (Thursday) at 05:00:29 PM CDT
+EFFECTIVE UNTIL: 10/27/1947 (Thursday) at 05:15:29 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/31/1947 (Monday) at 11:00:59 AM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: IPAWS
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-31T16:00:00-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/31/1947 (Monday) at 11:00:00 AM CDT
+EFFECTIVE UNTIL: 10/31/1947 (Monday) at 12:00:00 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
+
+>>>=================================================
+10/31/1947 (Monday) at 02:00:24 PM CDT : Receive log
+  MESSAGE STATUS: Required Weekly Test not configured for retransmission
+CAP MESSAGE from: IPAWS
+    CAP Sender: IPAWS
+    CAP Identifier: 123456789
+    CAP Sent Time: 1947-10-31T19:00:00-00:00
+STATION ID: IPAWS
+EVENT: Required Weekly Test (RWT)
+ORIGINATOR: Civil Authority (CIV)
+ORIGINATION TIME: 10/31/1947 (Monday) at 02:00:00 PM CDT
+EFFECTIVE UNTIL: 10/31/1947 (Monday) at 03:00:00 PM CDT
+
+EAS PROTOCOL TEXT: PROTOCOL-TXT
+
+DISPLAY TEXT: A Required Weekly Test has been issued by an EAS Participant.
