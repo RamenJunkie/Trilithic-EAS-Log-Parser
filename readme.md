@@ -1,4 +1,4 @@
-# Parser for Trilithic EAS (Emergency Slert System) Logs
+# Parser for Trilithic EAS (Emergency Alert System) Logs
 
 Parses through log files produced by Trilithic EAS systems and outputs them in an easily readable format for parsing through logs on a monthly basis.
 
